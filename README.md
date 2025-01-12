@@ -16,7 +16,7 @@ The repository is ideal for researchers, engineers, and students looking to expl
 Ensure you have the following installed:
 
 - Python 3.12
-- Jupyter Notebook
+- Jupyter Notebook or Google Collab
 
 ### Python Dependencies
 
